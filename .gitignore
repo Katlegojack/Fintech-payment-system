@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+backend/stocklink.db
+
+# Env
+.env
+backend/.env
+mobile/.env
+
+# Node
+mobile/node_modules/
+mobile/.expo/
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+*.env
+.venv/
+node_modules/
+__pycache__/
